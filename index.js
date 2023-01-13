@@ -6,7 +6,7 @@
 //Let's use fetch to access and modify a database through a WebApi using GET, POST, PUT, DELETE requests
 //Le'ts use my WebApi generating random customers and orders, using a mySQL database version called MariaDb
 
-const urlBase = "https://localhost:5001";
+const urlBase = "https://localhost:44340";
 const urlID = urlBase + "/id";
 const urlData = urlBase + "/api/Customers";
 
